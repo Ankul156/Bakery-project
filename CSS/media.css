@@ -163,11 +163,13 @@
     .section3-text h1 {
         font-size: 40px;
     }
-    .chef-section{
+
+    .chef-section {
         justify-content: center;
         gap: 30px;
     }
-.contact-details-section{
-    margin: 20px;
-}
+
+    .contact-details-section {
+        margin: 20px;
+    }
 }
